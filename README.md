@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-diting for demo purposes
+diting for demo purposes One more time
 
 ## Purpose
 
