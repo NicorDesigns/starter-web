@@ -14,4 +14,6 @@ Sample website with plenty of files for demos
 
 Some more editing & More changes
 
-### Copyright notice
+### Copyright notice vs 2.0
+
+Git.Training
