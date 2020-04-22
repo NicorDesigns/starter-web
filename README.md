@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-Please for this repo and go wild
+Please fork this repo and go wild after pull request
 
 ### Copyright notice vs 2.0
 
