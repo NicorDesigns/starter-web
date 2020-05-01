@@ -17,4 +17,4 @@ Please fork this repo and go wild after pull request
 
 ### Copyright notice vs 2.0
 
-Git.Training
+Git.Training. All rights reserved.
